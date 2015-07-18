@@ -19,7 +19,7 @@
     {
       "matches": ["*://*/*"],
       "css": ["injectiontest.css"],
-      "js": ["jquery-2.1.4.js", "injectiontest.js"]
+      "js": ["jquery-2.1.4.js","reqwest.js", "injectiontest.js"]
     }
   ]
 }
