@@ -1,0 +1,18 @@
+manifest.json
+
+{
+  "manifest_version": 1,
+
+  "name": "Reboot 2015 Chrome Extension",
+  "description": "Copy and paste",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_icon": "extension_icon.png",
+    "default_popup": "extension_popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
